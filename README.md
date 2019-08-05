@@ -6,6 +6,10 @@ My eclectic collection of AI curated links
 
 ### August
 
+#### 05
+
+1. [ERNIE: Baidu's open source continual pre-training framework for language understanding](https://github.com/TarrySingh/ERNIE)
+
 #### 01
 
 1. [ART: Abstraction Refinement-Guided Training for Provably Correct Neural Networks](https://arxiv.org/abs/1907.10662)
