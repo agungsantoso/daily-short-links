@@ -6,6 +6,13 @@ My eclectic collection of AI curated links
 
 ### August
 
+#### 06
+
+1. [The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
+2. [A Brief Tour of Differential Privacy](https://www.cs.cmu.edu/~avrim/Randalgs11/lectures/lect0420.pdf)
+3. [Ethically Aligned Design, First Edition](https://ethicsinaction.ieee.org/)
+4. [N-Shot Learning](https://blog.floydhub.com/n-shot-learning/)
+
 #### 05
 
 1. [ERNIE: Baidu's open source continual pre-training framework for language understanding](https://github.com/TarrySingh/ERNIE)
