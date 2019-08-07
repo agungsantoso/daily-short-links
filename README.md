@@ -6,6 +6,12 @@ My eclectic collection of AI curated links
 
 ### August
 
+#### 07
+
+1. Official implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
+    * [PyTorch](https://github.com/znxlwm/UGATIT-pytorch)
+    * [Tensorflow](https://github.com/taki0112/UGATIT)
+
 #### 06
 
 1. [The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
