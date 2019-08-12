@@ -6,6 +6,10 @@ My eclectic collection of AI curated links
 
 ### August
 
+#### 12
+
+1. [Neural Blind Deconvolution Using Deep Priors](https://arxiv.org/pdf/1908.02197.pdf)
+
 #### 07
 
 1. Official implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
