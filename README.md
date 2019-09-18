@@ -4,6 +4,13 @@ My eclectic collection of AI curated links
 
 ## 2019
 
+### September
+
+#### 18
+
+1. [Mirroring to Build Trust in Digital Assistants](https://arxiv.org/abs/1904.01664)
+2. [Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
+
 ### August
 
 #### 12
