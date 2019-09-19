@@ -6,6 +6,10 @@ My eclectic collection of AI curated links
 
 ### September
 
+#### 19
+
+1. [Roulette ImageNet](https://imagenet-roulette.paglen.com/)
+
 #### 18
 
 1. [Mirroring to Build Trust in Digital Assistants](https://arxiv.org/abs/1904.01664)
